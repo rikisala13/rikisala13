@@ -9,10 +9,6 @@
   <section>
     I'm Ricard, a 32years old software developer from Spain specialized in MERN tech stack with experience in planning, managing & developing projects from scratch. I focus on clean code practices and delivering the maximum value. Also I am very passionate about UI/UX and design.
   </section>
-  🇪🇸
-  <section>
-  Soy Ricard, un desarrollador web español de 32 años especializado en tecnología MERN con experiencia en planificación, gestión y desarrollo de proyectos web desde cero. Me concentro en buenas practicas, codigo limpio y en aportar el máximo valor al proyecto. Además me apasiona mucho la UI / UX y el diseño.
-  </section>
   <h3>💻 Tecnoliogias y recursos que uso👇🏼</h3> <br>
   <p>
       <a href="https://www.w3schools.com/css/" rel="nofollow"> 
@@ -78,7 +74,7 @@
   <ul align="start">
     <li> <a href="mailto:riki_sala@hotmail.com">riki_sala@hotmail.com  📩</a></li>
      <li> <a href="https://www.linkedin.com/in/ricard-sala-mercad%C3%A9/">Ricard Sala</a> on LinkedIn  📇</li>
-     <li> <a href="tel:+34637143712"> telefono de contacto ☎️</a></li>
+     <li> <a href="tel:+34637143712"> 637143712 telefono ☎️</a></li>
     
 </ul>
 </p>
