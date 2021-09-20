@@ -7,9 +7,9 @@
   <br>
   🇬🇧
   <section>
-    I'm Ricard, a 32years old software developer from Spain specialized in MERN tech stack with experience in planning, managing & developing projects from scratch. I focus on clean code practices and delivering the maximum value. Also I am very passionate about UI/UX and design.
+    I'm Ricard, a 32 years old software developer from Spain specialized in MERN tech stack with experience in planning, managing & developing projects from scratch. I focus on clean code practices and delivering the maximum value. Also I am very passionate about UI/UX and design.
   </section>
-  <h3>💻 Tecnoliogias y recursos que uso👇🏼</h3> <br>
+  <h3>💻 Tecnologias y recursos que uso👇🏼</h3> <br>
   <p>
       <a href="https://www.w3schools.com/css/" rel="nofollow"> 
           <img src="https://camo.githubusercontent.com/6facef9332d68686dcabd5170db214331096b35a9e193edf08fe36cbd06e0457/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324663646e312e69636f6e66696e6465722e636f6d2532466461746125324669636f6e732532466c6f676f7479706573253246333225324662616467652d6373732d332d3531322e706e6726663d31266e6f66623d31" alt="css3" width="40" height="40" data-canonical-src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fbadge-css-3-512.png&amp;f=1&amp;nofb=1" style="max-width: 100%;">
