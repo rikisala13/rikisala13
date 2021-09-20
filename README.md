@@ -5,6 +5,14 @@
 <div align="center">
   <p>Me llamo <strong>Ricard Sala </strong>, soy Full Stack developer. </p>
   <br>
+  🇬🇧
+  <section>
+    I'm Ricard, a 32years old software developer from Spain specialized in MERN tech stack with experience in planning, managing & developing projects from scratch. I focus on clean code practices and delivering the maximum value. Also I am very passionate about UI/UX and design.
+  </section>
+  🇪🇸
+  <section>
+  Soy Ricard, un desarrollador web español de 32 años especializado en tecnología MERN con experiencia en planificación, gestión y desarrollo de proyectos web desde cero. Me concentro en buenas practicas, codigo limpio y en aportar el máximo valor al proyecto. Además me apasiona mucho la UI / UX y el diseño.
+  </section>
   <h3>💻 Tecnoliogias y recursos que uso👇🏼</h3> <br>
   <p>
       <a href="https://www.w3schools.com/css/" rel="nofollow"> 
@@ -41,28 +49,27 @@
     <img src="https://camo.githubusercontent.com/c8a61aedbf8d0402eb3d0f3b27e29f3e34f93c7e712cc24a3fa967f18bd10506/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f323034343832636134313334333363383063643134666533363965323138316464393761326134302f30393265322f6173736574732f696d672f6c6f676f2e737667" alt="eslint" width="40" height="40" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
    </a>
       <a href="https://nodejs.org/es/" rel="nofollow"> 
-    <img src="https://nodejs.org/static/images/logo.svg" alt="eslint" width="40" height="40" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
+    <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs"  height="40" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
    </a>
           <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_spain_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624563&gclid=CjwKCAjw4qCKBhAVEiwAkTYsPEoXZvLRuOJ_n1UtMsZXW4AiSzY4pof2IvZ3U-o5msEg84uWfbv9dxoCUt8QAvD_BwE" rel="nofollow"> 
-    <img src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress" alt="eslint" width="40" height="40" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
+    <img src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress" alt="mongodb"  height="40" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
    </a>
           <a href="https://www.typescriptlang.org/" rel="nofollow"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="eslint" width="40" height="40" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
    </a>
           <a href="https://www.docker.com/" rel="nofollow"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/280px-Docker_%28container_engine%29_logo.png" alt="eslint" width="40"  data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/280px-Docker_%28container_engine%29_logo.png" alt="doker" height="40"  data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
+   </a>
+          <a href="https://nextjs.org/" rel="nofollow"> 
+    <img src="https://camo.githubusercontent.com/c87cc4a3a9c2bd62a2f1bd8a31748a4c1e00c44e07e8deee56e0f91d303f60e2/687474703a2f2f7777772e6c656772616e646c756361732e636f6d2f6173736574732f6e6578746a735f5f77686974652e706e67" alt="nextjs" height="40"  data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
    </a>
     </p> 
+ <h4>
+   <p> 👨🏼‍💻 I’m currently working on <a href="https://www.skylabcoders.com/es" rel="nofollow"> <strong>Skylab</strong></a></p>
+    <p> ⚙️ 🔩  React,vue,Next.js</p>
+    <p>🖼 🪄 SASS, CSS</p>
+    <p>🗄 🗂 MongoDb, Node.js, Mongoose</p>
+    <p>🎨 🏗 Figma, UI/UX</p>
+  </h4>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
