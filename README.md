@@ -64,12 +64,21 @@
     <img src="https://camo.githubusercontent.com/c87cc4a3a9c2bd62a2f1bd8a31748a4c1e00c44e07e8deee56e0f91d303f60e2/687474703a2f2f7777772e6c656772616e646c756361732e636f6d2f6173736574732f6e6578746a735f5f77686974652e706e67" alt="nextjs" height="40"  data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
    </a>
     </p> 
- <h4>
+ <h4 align="start">
    <p> 👨🏼‍💻 I’m currently working on <a href="https://www.skylabcoders.com/es" rel="nofollow"> <strong>Skylab</strong></a></p>
     <p> ⚙️ 🔩  React,vue,Next.js</p>
     <p>🖼 🪄 SASS, CSS</p>
     <p>🗄 🗂 MongoDb, Node.js, Mongoose</p>
     <p>🎨 🏗 Figma, UI/UX</p>
   </h4>
-
-
+  <br>
+  <br>
+  
+  <h2 align="start">📩 Contact Me 📩</h2>
+  <ul align="start">
+    <li> <a href="mailto:riki_sala@hotmail.com">riki_sala@hotmail.com  📩</a></li>
+     <li> <a href="https://www.linkedin.com/in/ricard-sala-mercad%C3%A9/">Ricard Sala</a> on LinkedIn  📇</li>
+     <li> <a href="tel:+34637143712"> telefono de contacto ☎️</a></li>
+    
+</ul>
+</p>
