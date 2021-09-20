@@ -1,5 +1,8 @@
 ### Hi there 👋
-<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/z4LbuA3KRsn4gxkeN5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/logo-shark-riki13-z4LbuA3KRsn4gxkeN5">via GIPHY</a></p>
+<div align="center">
+<image src=https://media.giphy.com/media/xAkfDnpGqOwHGOVwkS/giphy.gif?cid=790b7611d73105e9d31ce4a94836df961bd644081003566d&rid=giphy.gif&ct=g alt="riki logo" />
+</div>
+
 
 Here are some ideas to get you started:
 
