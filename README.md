@@ -59,6 +59,9 @@
           <a href="https://nextjs.org/" rel="nofollow"> 
     <img src="https://camo.githubusercontent.com/c87cc4a3a9c2bd62a2f1bd8a31748a4c1e00c44e07e8deee56e0f91d303f60e2/687474703a2f2f7777772e6c656772616e646c756361732e636f6d2f6173736574732f6e6578746a735f5f77686974652e706e67" alt="nextjs" height="40"  data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
    </a>
+      <a href="https://visualstudio.microsoft.com/es/vs/mac/" rel="nofollow"> 
+    <img src="https://camo.githubusercontent.com/e9141be13e6bea8c50af6d48f64700246faed666040ead23e74d4fc27bf411e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" alt="vsCode" height="40"  data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> 
+   </a>
     </p> 
  <h4 align="start">
    <p> 👨🏼‍💻 I’m currently working on <a href="https://www.skylabcoders.com/es" rel="nofollow"> <strong>Skylab</strong></a></p>
@@ -72,9 +75,18 @@
   
   <h2 align="start">📩 Contact Me 📩</h2>
   <ul align="start">
-    <li> <a href="mailto:riki_sala@hotmail.com">riki_sala@hotmail.com  📩</a></li>
-     <li> <a href="https://www.linkedin.com/in/ricard-sala-mercad%C3%A9/">Ricard Sala</a> on LinkedIn  📇</li>
-     <li> <a href="tel:+34637143712"> 637143712 telefono ☎️</a></li>
+    <li> <a href="mailto:riki_sala@hotmail.com">riki_sala@hotmail.com src/a></li>
+      <li> <a align-content="center" href="https://www.linkedin.com/in/ricard-sala-mercad%C3%A9/"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" alt="linkedin" width="40" height="40" data-canonical-src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" style="max-width: 100%;"> Ricard Sala</a></li>
+  <li>  <a href="tel:+34637143712"> 637143712 telefono ☎️</a></li>
     
 </ul>
+</p>
+ 
+ <h2>Some of my stats 📊</h2>
+<p>
+  
+![rikisala13 GitHub stats](https://github-readme-stats.vercel.app/api?username=rikisala13&show_icons=true&theme=highcontrast) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikisala13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
