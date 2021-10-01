@@ -90,3 +90,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikisala13&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rikisala13&label=Profile%20views&color=e6fd35&style=plastic" alt="rikisala13" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikisala13" alt="rikisala13" /></a> </p>
