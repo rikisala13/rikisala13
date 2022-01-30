@@ -64,7 +64,7 @@
    </a>
     </p> 
  <h4 align="start">
-   <p> 👨🏼‍💻 I’m currently working on <a href="https://www.skylabcoders.com/es" rel="nofollow"> <strong>Skylab</strong></a></p>
+   <p> 👨🏼‍💻 I’m currently working on <a href="http://www.mindden.com/" rel="nofollow"> <strong>Mindden softtech</strong></a></p>
     <p> ⚙️ 🔩  React,vue,Next.js</p>
     <p>🖼 🪄 SASS, CSS</p>
     <p>🗄 🗂 MongoDb, Node.js, Mongoose</p>
